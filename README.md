@@ -40,7 +40,7 @@ The dashboard helps users:
 
 # Dashboard Preview
 
-![Sales Performance Dashboard](dashboard.png)
+![Sales Performance Dashboard](Sale Performance Dashboard.pbix.png)
 
 # Project Files
 
